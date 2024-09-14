@@ -80,6 +80,9 @@ const Index = () => {
 
   return (
     <div className="container mt-4">
+      
+        {/* dynamic form */}
+      
       <h2 className="text-center">Dynamic Form Builder</h2>
       <div className="row">
         <div className="col-lg-6 col-md-12 col-sm-12">
