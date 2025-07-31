@@ -168,7 +168,7 @@ const Index = () => {
                     type={field.type}
                     className="form-control mt-1"
                     value={field.value}
-                    readOnly
+                    // readOnly
                   />
                 </div>
               ))
